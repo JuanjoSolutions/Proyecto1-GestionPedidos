@@ -1,4 +1,4 @@
-package com.gestionpedidos.proyecto1gestionpedidos.model;
+package com.gestionpedidos.proyecto1gestionpedidos.repository;
 
 import com.gestionpedidos.proyecto1gestionpedidos.model.Order;
 import org.springframework.data.jpa.repository.JpaRepository;

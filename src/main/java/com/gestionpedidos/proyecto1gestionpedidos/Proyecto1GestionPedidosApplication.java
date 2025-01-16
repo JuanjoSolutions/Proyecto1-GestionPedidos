@@ -2,7 +2,7 @@ package com.gestionpedidos.proyecto1gestionpedidos;
 
 import com.gestionpedidos.proyecto1gestionpedidos.model.Order;
 import com.gestionpedidos.proyecto1gestionpedidos.model.OrderLine;
-import com.gestionpedidos.proyecto1gestionpedidos.model.OrderRepository;
+import com.gestionpedidos.proyecto1gestionpedidos.repository.OrderRepository;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;

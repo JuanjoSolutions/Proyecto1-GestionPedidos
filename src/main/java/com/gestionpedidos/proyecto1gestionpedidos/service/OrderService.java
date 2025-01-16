@@ -1,7 +1,7 @@
-package com.gestionpedidos.proyecto1gestionpedidos.model;
+package com.gestionpedidos.proyecto1gestionpedidos.service;
 
 import com.gestionpedidos.proyecto1gestionpedidos.model.Order;
-import com.gestionpedidos.proyecto1gestionpedidos.model.OrderRepository;
+import com.gestionpedidos.proyecto1gestionpedidos.repository.OrderRepository;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 

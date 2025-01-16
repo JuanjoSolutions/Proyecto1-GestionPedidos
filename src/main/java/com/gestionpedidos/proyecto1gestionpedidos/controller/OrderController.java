@@ -3,7 +3,7 @@ package com.gestionpedidos.proyecto1gestionpedidos.controller;
 import com.gestionpedidos.proyecto1gestionpedidos.model.Order;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import com.gestionpedidos.proyecto1gestionpedidos.model.OrderService;
+import com.gestionpedidos.proyecto1gestionpedidos.service.OrderService;
 import java.util.List;
 
 @RestController
